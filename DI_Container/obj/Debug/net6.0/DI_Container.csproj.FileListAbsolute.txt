@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\bin\Debug\net6.0\DI_Container.exe
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\bin\Debug\net6.0\DI_Container.deps.json
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\bin\Debug\net6.0\DI_Container.runtimeconfig.json
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\bin\Debug\net6.0\DI_Container.dll
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\bin\Debug\net6.0\DI_Container.pdb
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\DI_Container.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\DI_Container.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\DI_Container.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\DI_Container.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\DI_Container.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\DI_Container.dll
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\refint\DI_Container.dll
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\DI_Container.pdb
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\DI_Container.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\DI_Container\DI_Container\obj\Debug\net6.0\ref\DI_Container.dll
