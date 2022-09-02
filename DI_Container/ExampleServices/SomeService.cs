@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DI_Container
+namespace DI_Container.ExampleServices
 {
     public class SomeService : ISomeService
     {
@@ -17,7 +17,7 @@ namespace DI_Container
             _guidGenerator = guidGenerator;
         }
 
-         public void DoSmthng()
+        public void DoSmthng()
         {
             Console.WriteLine(_guidGenerator.randomguid);
         }

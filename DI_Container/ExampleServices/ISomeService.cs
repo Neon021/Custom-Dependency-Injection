@@ -1,4 +1,4 @@
-﻿namespace DI_Container
+﻿namespace DI_Container.ExampleServices
 {
     public interface ISomeService
     {
