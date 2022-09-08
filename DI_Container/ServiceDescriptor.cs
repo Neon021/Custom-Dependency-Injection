@@ -8,17 +8,17 @@ namespace DI_Container
 {
     public class ServiceDescriptor
     {
-        public ServiceDescriptor(object implementation, ServiceLifetime lifetime)
-        {
-            ServiceType = implementation.GetType();
-            Implementation = implementation;
-            Lifetime = lifetime;
-        }
-        public ServiceDescriptor(Type serviceType, ServiceLifetime lifetime)
-        {
-            ServiceType = serviceType;
-            Lifetime = lifetime;
-        }
+       // public ServiceDescriptor(object implementation, ServiceLifetime lifetime)
+       // {
+       //     ServiceType = implementation.GetType();
+       //     Implementation = implementation;
+       //     Lifetime = lifetime;
+       // }
+       // public ServiceDescriptor(Type serviceType, ServiceLifetime lifetime)
+       // {
+       //     ServiceType = serviceType;
+       //     Lifetime = lifetime;
+       // }
         public ServiceDescriptor(Type serviceType, Type implementationType, ServiceLifetime lifetime)
         {
             ServiceType = serviceType;
